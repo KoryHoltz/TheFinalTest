@@ -1,0 +1,22 @@
+Step 3
+1. Git init
+2. git add MyFile.txt
+3. git commit -m "Added MyFile.txt which holds my name, student ID and today's date."
+4. git add .gitignore
+5. git commit -m "Added .gitignore to exclude Command.txt."
+
+Step 4
+1. mkdir Info
+2. Added two files InfoFil1 and InfoFile2
+3. Git add info/
+4. git commit -m "add Info Folder and it's files to version control."
+
+step 5
+1. git config user.name "KoryHoltz_INFO"
+2. git add -f Command.txt
+	The -f let me add the file
+
+step 6
+1. added the course name to the top of the file
+2. git status
+	This is stuff I already knew
